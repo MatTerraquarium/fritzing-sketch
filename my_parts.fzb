@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="1.0.1rc.2023-09-06.CD-1654-0-8f5f1373" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="dht11_5d987e30cf4ef1241b7c5716e7278f4c_1" modelIndex="5788" path="C:/Users/svallorani.INIM/Documents/Fritzing/parts/user/dht11_5d987e30cf4ef1241b7c5716e7278f4c_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="dht22_3847499bcb4f6c4567043c964f63a994_1" modelIndex="5790" path="C:/Users/svallorani.INIM/Documents/Fritzing/parts/user/dht22_3847499bcb4f6c4567043c964f63a994_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_bb293675494ba6c02349cfc54c01703a_1" modelIndex="5792" path="C:/Users/svallorani.INIM/Documents/Fritzing/parts/user/prefix0000_bb293675494ba6c02349cfc54c01703a_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5V RELAY 2.0_7a3360d3a0dc6ec822f83b476ef26e6a_2" modelIndex="5890" path="C:/Users/svallorani.INIM/Documents/Fritzing/parts/user/5V RELAY 2.0_7a3360d3a0dc6ec822f83b476ef26e6a_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3234DBDC80leg" modelIndex="6775" path="C:/Program Files/Fritzing/fritzing-parts/core/servo.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
