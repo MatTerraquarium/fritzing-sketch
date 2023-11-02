@@ -14,7 +14,7 @@
         <instance moduleIdRef="5V RELAY 2.0_7a3360d3a0dc6ec822f83b476ef26e6a_2" modelIndex="5890" path="C:/Users/svallorani.INIM/Documents/Fritzing/parts/user/5V RELAY 2.0_7a3360d3a0dc6ec822f83b476ef26e6a_2.fzp">
             <views/>
         </instance>
-        <instance moduleIdRef="3234DBDC80leg" modelIndex="6775" path="C:/Program Files/Fritzing/fritzing-parts/core/servo.fzp">
+        <instance moduleIdRef="mypart001_cb0a38575327527c6e40764fc5f0b844_1" modelIndex="85511757" path="C:/Users/svallorani.INIM/Documents/Fritzing/parts/user/mypart001_cb0a38575327527c6e40764fc5f0b844_1.fzp" flippedSMD="true">
             <views/>
         </instance>
     </instances>
